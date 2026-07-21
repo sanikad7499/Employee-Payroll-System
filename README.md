@@ -67,14 +67,9 @@ This project helped strengthen practical skills in:
 
 ##  Output
 
-> Add screenshots of your program here after running it.
-
-Example:
-
-* Main Menu
-* Employee Records
-* Salary Analytics
-* Department-wise Matrix Operations
+<p align="center">
+  <img src="Sample.screenshot.png" alt="Payroll System" width="500">
+</p>
 
 ---
 
